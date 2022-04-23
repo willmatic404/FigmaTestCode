@@ -1,0 +1,272 @@
+      // Figma Flutter Generator Group4Widget - GROUP
+      Container(
+      width: 1250,
+      height: 844,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+      width: 390,
+      height: 844,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(184, 184, 184, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 309,
+        left: 86,
+        child: Container(
+        width: 217.2857208251953,
+        height: 225,
+        decoration: BoxDecoration(
+          image : DecorationImage(
+          image: AssetImage('assets/images/Mike_j2removebgpreview1.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),Positioned(
+        top: 744,
+        left: 290,
+        child: Container(
+      width: 100,
+      height: 100,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 100,
+        height: 100,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(0, 0, 0, 1),
+      borderRadius : BorderRadius.all(Radius.elliptical(100, 100)),
+  )
+      )
+      ),Positioned(
+        top: 1.4634132385253906,
+        left: 1.46337890625,
+        child: Container(
+        width: 97.07317352294922,
+        height: 97.07317352294922,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(184, 184, 184, 1),
+      borderRadius : BorderRadius.all(Radius.elliptical(97.07317352294922, 97.07317352294922)),
+  )
+      )
+      ),Positioned(
+        top: 14.634146690368652,
+        left: 13.17071533203125,
+        child: Container(
+        width: 68.78048706054688,
+        height: 70.243896484375,
+        decoration: BoxDecoration(
+          image : DecorationImage(
+          image: AssetImage('assets/images/Mike_jremovebgpreview1.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 45,
+        left: 0,
+        child: Text('KING', textAlign: TextAlign.center, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'Krona One',
+        fontSize: 90,
+        letterSpacing: 0 /*percentages not used in flutter. defaulting to zero*/,
+        fontWeight: FontWeight.normal,
+        height: 1
+      ),)
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 860,
+        child: Container(
+      width: 390,
+      height: 844,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(184, 184, 184, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 744,
+        left: 290,
+        child: Container(
+      width: 100,
+      height: 100,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 100,
+        height: 100,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(0, 0, 0, 1),
+      borderRadius : BorderRadius.all(Radius.elliptical(100, 100)),
+  )
+      )
+      ),Positioned(
+        top: 1.4634132385253906,
+        left: 1.46337890625,
+        child: Container(
+        width: 97.07317352294922,
+        height: 97.07317352294922,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(184, 184, 184, 1),
+      borderRadius : BorderRadius.all(Radius.elliptical(97.07317352294922, 97.07317352294922)),
+  )
+      )
+      ),Positioned(
+        top: 14.63414192199707,
+        left: 15.6097412109375,
+        child: Container(
+        width: 68.78048706054688,
+        height: 70.243896484375,
+        decoration: BoxDecoration(
+          image : DecorationImage(
+          image: AssetImage('assets/images/Michael_jackson__icon1.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 310,
+        left: 71,
+        child: Container(
+        width: 248.27586364746094,
+        height: 225,
+        decoration: BoxDecoration(
+          image : DecorationImage(
+          image: AssetImage('assets/images/Mike_j2removebgpreview3.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),Positioned(
+        top: 45,
+        left: -1,
+        child: Text('KING', textAlign: TextAlign.center, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'Krona One',
+        fontSize: 90,
+        letterSpacing: 0 /*percentages not used in flutter. defaulting to zero*/,
+        fontWeight: FontWeight.normal,
+        height: 1
+      ),)
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 0,
+        left: 430,
+        child: Container(
+      width: 390,
+      height: 844,
+      decoration: BoxDecoration(
+          color : Color.fromRGBO(184, 184, 184, 1),
+  ),
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 744,
+        left: 290,
+        child: Container(
+      width: 100,
+      height: 100,
+      
+      child: Stack(
+        children: <Widget>[
+          Positioned(
+        top: 0,
+        left: 0,
+        child: Container(
+        width: 100,
+        height: 100,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(0, 0, 0, 1),
+      borderRadius : BorderRadius.all(Radius.elliptical(100, 100)),
+  )
+      )
+      ),Positioned(
+        top: 1.4634132385253906,
+        left: 1.4633941650390625,
+        child: Container(
+        width: 97.07317352294922,
+        height: 97.07317352294922,
+        decoration: BoxDecoration(
+          color : Color.fromRGBO(184, 184, 184, 1),
+      borderRadius : BorderRadius.all(Radius.elliptical(97.07317352294922, 97.07317352294922)),
+  )
+      )
+      ),Positioned(
+        top: 14.634151458740234,
+        left: 16.58538818359375,
+        child: Container(
+        width: 68.78048706054688,
+        height: 70.243896484375,
+        decoration: BoxDecoration(
+          image : DecorationImage(
+          image: AssetImage('assets/images/Mikej31.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),
+        ]
+      )
+    )
+      ),Positioned(
+        top: 309,
+        left: 79,
+        child: Container(
+        width: 232.7586212158203,
+        height: 225,
+        decoration: BoxDecoration(
+          image : DecorationImage(
+          image: AssetImage('assets/images/Mike_j2removebgpreview2.png'),
+          fit: BoxFit.fitWidth
+      ),
+  )
+      )
+      ),Positioned(
+        top: 45,
+        left: -1,
+        child: Text('KING', textAlign: TextAlign.center, style: TextStyle(
+        color: Color.fromRGBO(0, 0, 0, 1),
+        fontFamily: 'Krona One',
+        fontSize: 90,
+        letterSpacing: 0 /*percentages not used in flutter. defaulting to zero*/,
+        fontWeight: FontWeight.normal,
+        height: 1
+      ),)
+      ),
+        ]
+      )
+    )
+      ),
+        ]
+      )
+    )
